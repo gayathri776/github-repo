@@ -1,0 +1,84 @@
+[33mcommit 2f258b9349d829386cc81d69d9cbd129ef00b403[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Author: gayathri <pasupulatigayathri07@gmail.com>
+Date:   Wed Sep 23 16:01:29 2020 +0000
+
+    feature1 updated
+
+[33mcommit 13ff146e1b64f831e79713683d1765f2b1d9b900[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4560f4f d79ff84
+Author: gayathri776 <71461651+gayathri776@users.noreply.github.com>
+Date:   Wed Sep 23 15:19:41 2020 +0530
+
+    Merge pull request #2 from gayathri776/feature-2
+    
+    sample file changes
+
+[33mcommit d79ff843faf3ad8dfa16e10a468de355762f1515[m
+Merge: 1103cb9 4560f4f
+Author: gayathri776 <71461651+gayathri776@users.noreply.github.com>
+Date:   Wed Sep 23 15:19:27 2020 +0530
+
+    Merge branch 'master' into feature-2
+
+[33mcommit 1103cb96c852fb964980ecbad37623daa01c7e2a[m
+Author: gayathri <pasupulatigayathri07@gmail.com>
+Date:   Wed Sep 23 09:43:47 2020 +0000
+
+    sample file changes
+
+[33mcommit 4560f4f9f78a62d9ca37f844288b240334437d48[m
+Author: gayathri776 <71461651+gayathri776@users.noreply.github.com>
+Date:   Wed Sep 23 15:10:20 2020 +0530
+
+    Update sample.txt
+
+[33mcommit c8fcea0fd7df04d1f287e3f33bbc98dead142f18[m
+Merge: 968e229 c274141
+Author: gayathri776 <71461651+gayathri776@users.noreply.github.com>
+Date:   Wed Sep 23 14:07:43 2020 +0530
+
+    Merge pull request #1 from gayathri776/feature-1
+    
+    feature-1 to master
+
+[33mcommit c274141ef62f3d566d8a31823f8ea95804c940b0[m
+Author: gayathri <pasupulatigayathri07@gmail.com>
+Date:   Wed Sep 23 08:14:41 2020 +0000
+
+    feature1 file added
+
+[33mcommit 968e229bfc133eb10928d75eadf07a9e07826602[m
+Author: gayathri <pasupulatigayathri07@gmail.com>
+Date:   Tue Sep 22 15:50:42 2020 +0000
+
+    changed
+
+[33mcommit a61c45c3175a57a89416ff196b698039c5f617a2[m[33m ([m[1;31morigin/staging[m[33m, [m[1;31morigin/release[m[33m)[m
+Author: gayathri776 <71461651+gayathri776@users.noreply.github.com>
+Date:   Fri Sep 18 14:38:40 2020 +0530
+
+    added second line to sample file
+
+[33mcommit 928c94d21505991a72f94e94e480ba930a79fcf5[m
+Author: gayathri776 <71461651+gayathri776@users.noreply.github.com>
+Date:   Fri Sep 18 14:28:51 2020 +0530
+
+    Update sample.txt
+
+[33mcommit bb8349f65f71fe426876e9f5c47df9cb0eb7e606[m
+Author: gayathri <pasupulatigayathri07@gmail.com>
+Date:   Fri Sep 18 02:10:11 2020 +0000
+
+    jenkins created
+
+[33mcommit df3496c9b4603bf090566351dc0a4d39f97e73b2[m
+Author: gayathri776 <71461651+gayathri776@users.noreply.github.com>
+Date:   Fri Sep 18 00:17:09 2020 +0530
+
+    Create sample.txt
+
+[33mcommit fd990e4b3cb8ac23479ff8da06247950c53f8ca8[m
+Author: gayathri776 <71461651+gayathri776@users.noreply.github.com>
+Date:   Fri Sep 18 00:11:30 2020 +0530
+
+    Initial commit
